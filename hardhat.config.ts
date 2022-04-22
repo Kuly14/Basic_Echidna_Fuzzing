@@ -14,4 +14,3 @@ const config: HardhatUserConfig = {
   },
 };
 export default config;
-// /home/david/PROJECTS/FUZZING/src/BoxFuzzing.sol
